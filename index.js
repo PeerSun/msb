@@ -1,4 +1,5 @@
 'use strict';
+require('./appdynamics');
 /*
   e.g. `require('msb').channelManager` or `require('msb/lib/channelManager')`
 */
